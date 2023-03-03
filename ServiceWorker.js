@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Schindler Configurator-0.1.0";
 const contentToCache = [
     "Build/Schindler Configurator Builds.loader.js",
-    "Build/Schindler Configurator Builds.framework.js.br",
-    "Build/Schindler Configurator Builds.data.br",
-    "Build/Schindler Configurator Builds.wasm.br",
+    "Build/Schindler Configurator Builds.framework.js",
+    "Build/Schindler Configurator Builds.data",
+    "Build/Schindler Configurator Builds.wasm",
     "TemplateData/style.css"
 
 ];
