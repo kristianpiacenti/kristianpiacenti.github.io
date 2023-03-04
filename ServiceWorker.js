@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Configurator 1-0.1.0";
+const cacheName = "DefaultCompany-Configurator 2-0.1.0";
 const contentToCache = [
     "Build/Schindler Configurator Builds.loader.js",
     "Build/Schindler Configurator Builds.framework.js.unityweb",
