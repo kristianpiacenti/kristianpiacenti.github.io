@@ -1,6 +1,6 @@
 {
-    "name": "Schindler Configurator",
-    "short_name": "Schindler Configurator",
+    "name": "Configurator 1",
+    "short_name": "Configurator 1",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
