@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Configurator 2-0.1.0";
 const contentToCache = [
-    "Build/Schindler Builds.loader.js",
-    "Build/Schindler Builds.framework.js.unityweb",
-    "Build/Schindler Builds.data.unityweb",
-    "Build/Schindler Builds.wasm.unityweb",
+    "Build/kristianpiacenti.github.io.loader.js",
+    "Build/kristianpiacenti.github.io.framework.js.unityweb",
+    "Build/kristianpiacenti.github.io.data.unityweb",
+    "Build/kristianpiacenti.github.io.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
