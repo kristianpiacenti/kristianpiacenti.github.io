@@ -2,8 +2,10 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="AmplifyOcclusionEffect" preserve="all" />
     <type fullname="CameraFOVOnAspectRatio" preserve="all" />
+    <type fullname="CommandTerminal.Terminal" preserve="all" />
     <type fullname="ElevatorConfiguratorUI" preserve="all" />
     <type fullname="ElevatorPiece" preserve="all" />
+    <type fullname="InstantiateTerminal" preserve="all" />
     <type fullname="LoadAddress_Test" preserve="all" />
     <type fullname="PieceConfiguratorUI" preserve="all" />
     <type fullname="ReflectionProbeFacade" preserve="all" />
@@ -126,10 +128,6 @@
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Canvas" preserve="all" />
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
-  </assembly>
-  <assembly fullname="UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.Video.VideoClip" preserve="all" />
-    <type fullname="UnityEngine.Video.VideoPlayer" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextCoreFontEngineModule">
     <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
