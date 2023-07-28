@@ -9,6 +9,7 @@
     <type fullname="LoadAddress_Test" preserve="all" />
     <type fullname="PieceConfiguratorUI" preserve="all" />
     <type fullname="ReflectionProbeFacade" preserve="all" />
+    <type fullname="TerminalCommandController" preserve="all" />
     <type fullname="Transformer" preserve="all" />
     <type fullname="UIButtonClickSound" preserve="all" />
     <type fullname="UIButtonsSelectionTransparency" preserve="all" />
@@ -16,6 +17,7 @@
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReference" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Postprocessing.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Rendering.PostProcessing.AmbientOcclusion" preserve="all" />
