@@ -3,6 +3,7 @@
     <type fullname="AmplifyOcclusionEffect" preserve="all" />
     <type fullname="CameraFOVOnAspectRatio" preserve="all" />
     <type fullname="CommandTerminal.Terminal" preserve="all" />
+    <type fullname="ConfigurationLoaderController" preserve="all" />
     <type fullname="ElevatorConfiguratorUI" preserve="all" />
     <type fullname="ElevatorPiece" preserve="all" />
     <type fullname="InstantiateTerminal" preserve="all" />
