@@ -9,11 +9,14 @@
     <type fullname="InstantiateTerminal" preserve="all" />
     <type fullname="LoadAddress_Test" preserve="all" />
     <type fullname="PieceConfiguratorUI" preserve="all" />
+    <type fullname="Positioner" preserve="all" />
     <type fullname="ReflectionProbeFacade" preserve="all" />
     <type fullname="TerminalCommandController" preserve="all" />
     <type fullname="Transformer" preserve="all" />
     <type fullname="UIButtonClickSound" preserve="all" />
     <type fullname="UIButtonsSelectionTransparency" preserve="all" />
+    <type fullname="Positioner/TransformData" preserve="nothing" serialized="true" />
+    <type fullname="Positioner/TransformDataForSceneType" preserve="nothing" serialized="true" />
     <type fullname="ElevatorPiece/ElevatorPieceMaterial" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
