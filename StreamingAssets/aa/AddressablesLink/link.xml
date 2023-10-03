@@ -11,11 +11,12 @@
     <type fullname="OnDemandRenderingController" preserve="all" />
     <type fullname="PieceConfiguratorUI" preserve="all" />
     <type fullname="ReflectionProbeFacade" preserve="all" />
+    <type fullname="ScreenDragController" preserve="all" />
     <type fullname="TerminalCommandController" preserve="all" />
     <type fullname="TestMovement" preserve="all" />
     <type fullname="UIButtonClickSound" preserve="all" />
     <type fullname="UIButtonsSelectionTransparency" preserve="all" />
-    <type fullname="WebGLScreenshotTool.WebGLScreenshotTool" preserve="all" />
+    <type fullname="WebGLScreenshotController" preserve="all" />
     <type fullname="ConfigurationLoaderController/ConfigurationAsset" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
@@ -103,6 +104,7 @@
     <type fullname="UnityEngine.RectTransform" preserve="all" />
     <type fullname="UnityEngine.ReflectionProbe" preserve="all" />
     <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.RenderTexture" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
