@@ -1,6 +1,17 @@
 <linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="OverfortGames.Configurator.CategoryData" preserve="all" />
+    <type fullname="OverfortGames.Configurator.ComponentCustomizationMaterialData" preserve="all" />
+    <type fullname="OverfortGames.Configurator.ComponentCustomizationPrefabData" preserve="all" />
+    <type fullname="OverfortGames.Configurator.ComponentData" preserve="all" />
+    <type fullname="OverfortGames.Configurator.CameraData" preserve="nothing" serialized="true" />
+    <type fullname="OverfortGames.Configurator.ComponentCustomizationMaterialData/MaterialData" preserve="nothing" serialized="true" />
+    <type fullname="OverfortGames.Configurator.ComponentCustomizationPrefabData/PrefabData" preserve="nothing" serialized="true" />
+    <type fullname="OverfortGames.Configurator.ComponentCustomizationPrefabData/PrefabGroup" preserve="nothing" serialized="true" />
+  </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReference" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
@@ -15,6 +26,7 @@
     <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.MeshFilter" preserve="all" />
     <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
